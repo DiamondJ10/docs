@@ -188,6 +188,7 @@ If you cannot edit the PR, ask the repository owner to add the `close` syntax fo
 
 * Your pull request must be merged
 * The PR description must contain `close #[issue-number]` syntax
+* * **Important:** This must be in the pull request description itself, not only in the commit message.
 * Lightning Bounties uses the GitHub API as an oracle to prevent fraudulent claims
 * Payments are processed automatically when all conditions are met
 
