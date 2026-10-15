@@ -181,6 +181,7 @@ If you cannot edit the PR, ask the repository owner to add the `close` syntax fo
    * Add your pull request number
    * Click the "Check" button to verify eligibility
 4. **Receive Payment**: The reward will be added to your balance and paid instantly via the Lightning Network
+5. **Note:** After your pull request is merged, you still need to go to Lightning Bounties and manually click **Claim Reward**. The reward is not sent automatically just from the merge.
 
 <figure><img src=".gitbook/assets/solvedCard (1).png" alt=""><figcaption></figcaption></figure>
 
